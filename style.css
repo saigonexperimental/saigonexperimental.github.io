@@ -1,0 +1,50 @@
+
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+
+p{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    color: white;
+    text-underline-offset:8px;
+
+}
+
+a{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    background-color: yellow;
+    text-decoration: none;
+}
+
+main{
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 350px;
+   
+    
+}
+
+img{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media (max-width: 400px) {
+
+}
+
+h2 {
+    font-family: sans-serif;
+    font-size: 5px;
+    font-style: normal;
+    color: white;
+}
